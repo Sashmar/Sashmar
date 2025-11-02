@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/Sashmar/Sashmar/blob/output/github-snake-dark.svg)
 
+### 🥋 Codewars Profile
+[![Codewars](https://www.codewars.com/users/Sashmar/badges/large)](https://www.codewars.com/users/Sashmar)
+
+
 
 
 
